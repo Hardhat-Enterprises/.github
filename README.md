@@ -15,6 +15,8 @@ AppAttack delivers comprehensive security analysis and vulnerability assessments
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=AppAttack)](https://github.com/Hardhat-Enterprises/AppAttack)
 
 ## Website Development
+The main website for Hardhat Enterprises
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=website)](https://github.com/Hardhat-Enterprises/website)
 
 ## Penetration Testing GUI (PT-GUI):
@@ -27,7 +29,9 @@ PT-GUI streamlines penetration testing with a user-friendly interface, 54 integr
 ## Smishing Detection:
 Smishing Detection develops an Android app to identify and combat SMS phishing, enhancing mobile security with user-friendly AI-based solutions against social engineering attacks.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=AppAttack)](https://github.com/Hardhat-Enterprises/smishing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing)](https://github.com/Hardhat-Enterprises/smishing)
 
 ## CyberSafe-VR
+This project addresses this gap by creating interactive VR modules focused on fundamental cyber security training. These modules will cover crucial topics such as password security, data encryption, Wi-Fi and network security, safe web browsing, and common cyber-attacks like phishing and SMiShing.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=cybersafe-vr)](https://github.com/Hardhat-Enterprises/cybersafe-vr)
