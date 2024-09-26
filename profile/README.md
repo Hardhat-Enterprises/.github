@@ -22,7 +22,6 @@ The main website for Hardhat Enterprises
 ## Penetration Testing GUI (PT-GUI):
 PT-GUI streamlines penetration testing with a user-friendly interface, 54 integrated tools, and comprehensive documentation, enhancing accessibility and effectiveness for users.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=AppAttack)](https://github.com/Hardhat-Enterprises/AppAttack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=Deakin-Detonator-Toolkit)](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit)
 
 
