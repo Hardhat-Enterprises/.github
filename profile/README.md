@@ -27,8 +27,11 @@ PT-GUI streamlines penetration testing with a user-friendly interface, 54 integr
 
 ## Smishing Detection:
 Smishing Detection develops an Android app to identify and combat SMS phishing, enhancing mobile security with user-friendly AI-based solutions against social engineering attacks.
-
+###Smishing Frontend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing)](https://github.com/Hardhat-Enterprises/smishing)
+
+###Smishing Backend
+[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing-backend)](https://github.com/Hardhat-Enterprises/smishing-backend)
 
 ## CyberSafe-VR
 This project addresses this gap by creating interactive VR modules focused on fundamental cyber security training. These modules will cover crucial topics such as password security, data encryption, Wi-Fi and network security, safe web browsing, and common cyber-attacks like phishing and SMiShing.
