@@ -32,6 +32,8 @@ Smishing Detection develops an Android app to identify and combat SMS phishing, 
 
 [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing-backend)](https://github.com/Hardhat-Enterprises/smishing-backend)
 
+[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing-ai-microservice)](https://github.com/Hardhat-Enterprises/smishing-ai-microservice)
+
 ## CyberSafe-VR
 This project addresses this gap by creating interactive VR modules focused on fundamental cyber security training. These modules will cover crucial topics such as password security, data encryption, Wi-Fi and network security, safe web browsing, and common cyber-attacks like phishing and SMiShing.
 
