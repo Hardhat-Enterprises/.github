@@ -28,6 +28,11 @@ PT-GUI streamlines penetration testing with a user-friendly interface, 54 integr
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=Deakin-Detonator-Toolkit)](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit)
 
+## Policy Deployment Engine
+A team that needs to update their readme
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=Policy-Deployment-Engine)](https://github.com/Hardhat-Enterprises/Policy-Deployment-Engine)
+
 ## Smishing Detection:
 Smishing Detection develops an Android app to identify and combat SMS phishing, enhancing mobile security with user-friendly AI-based solutions against social engineering attacks.
 
