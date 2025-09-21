@@ -18,10 +18,10 @@ AppAttack delivers comprehensive security analysis and vulnerability assessments
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=AppAttack)](https://github.com/Hardhat-Enterprises/AppAttack)
 
-## Website Development
-The main website for Hardhat Enterprises
+## CyberSafe-VR:
+This project addresses this gap by creating interactive VR modules focused on fundamental cyber security training. These modules will cover crucial topics such as password security, data encryption, Wi-Fi and network security, safe web browsing, and common cyber-attacks like phishing and SMiShing.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=website)](https://github.com/Hardhat-Enterprises/website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=CyberSafeVR2.0)](https://github.com/Hardhat-Enterprises/CyberSafeVR2.0)
 
 ## Penetration Testing GUI (PT-GUI):
 PT-GUI streamlines penetration testing with a user-friendly interface, 54 integrated tools, and comprehensive documentation, enhancing accessibility and effectiveness for users.
@@ -35,7 +35,7 @@ Smishing Detection develops an Android app to identify and combat SMS phishing, 
 
 [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing-backend)](https://github.com/Hardhat-Enterprises/smishing-backend)
 
-## CyberSafe-VR:
-This project addresses this gap by creating interactive VR modules focused on fundamental cyber security training. These modules will cover crucial topics such as password security, data encryption, Wi-Fi and network security, safe web browsing, and common cyber-attacks like phishing and SMiShing.
+## Website Development
+The main website for Hardhat Enterprises
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=CyberSafeVR.2)](https://github.com/Hardhat-Enterprises/CyberSafeVR.2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=website)](https://github.com/Hardhat-Enterprises/website)
