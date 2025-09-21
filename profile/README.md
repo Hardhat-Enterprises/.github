@@ -8,6 +8,10 @@ https://hardhatdocs.netlify.app/
 
 ---
 Current projects:
+## AutoAudit:
+AutoAudit is a M365 compliance automation platform built by several specialist teams. This monorepo centralizes all codebases—including backend services, APIs, compliance scanners, and frontends—enabling unified CI/CD, streamlined development, and rapid automated deployments to the cloud.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=AutoAudit)](https://github.com/Hardhat-Enterprises/AutoAudit)
 
 ## AppAttack:
 AppAttack delivers comprehensive security analysis and vulnerability assessments, using secure environments to uncover and address potential security flaws in systems and data infrastructure.
@@ -24,15 +28,12 @@ PT-GUI streamlines penetration testing with a user-friendly interface, 54 integr
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=Deakin-Detonator-Toolkit)](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit)
 
-
 ## Smishing Detection:
 Smishing Detection develops an Android app to identify and combat SMS phishing, enhancing mobile security with user-friendly AI-based solutions against social engineering attacks.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing)](https://github.com/Hardhat-Enterprises/smishing)
 
 [![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing-backend)](https://github.com/Hardhat-Enterprises/smishing-backend)
-
-[![Readme_Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=smishing-ai-microservice)](https://github.com/Hardhat-Enterprises/smishing-ai-microservice)
 
 ## CyberSafe-VR:
 This project addresses this gap by creating interactive VR modules focused on fundamental cyber security training. These modules will cover crucial topics such as password security, data encryption, Wi-Fi and network security, safe web browsing, and common cyber-attacks like phishing and SMiShing.
