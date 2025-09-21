@@ -21,7 +21,7 @@ AppAttack delivers comprehensive security analysis and vulnerability assessments
 ## CyberSafe-VR:
 This project addresses this gap by creating interactive VR modules focused on fundamental cyber security training. These modules will cover crucial topics such as password security, data encryption, Wi-Fi and network security, safe web browsing, and common cyber-attacks like phishing and SMiShing.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=CyberSafeVR2.0)](https://github.com/Hardhat-Enterprises/CyberSafeVR2.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hardhat-Enterprises&repo=CyberSafeVR.2)](https://github.com/Hardhat-Enterprises/CyberSafeVR.2)
 
 ## Penetration Testing GUI (PT-GUI):
 PT-GUI streamlines penetration testing with a user-friendly interface, 54 integrated tools, and comprehensive documentation, enhancing accessibility and effectiveness for users.
